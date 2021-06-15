@@ -12,7 +12,9 @@ function MenuList(props) {
     <div className="card testing">
       <div className="card-body">
         <img src={menuItem.Image} alt=""/>
-        <h5 className="card-title">{menuItem.Food}</h5><button type="button" className="btn btn-outline-primary" onClick={() => {props.addItem(menuItem);}}>{menuItem.Price}</button>
+        <h5 className="card-title">{menuItem.Food}</h5>
+        <span>{menuItem.Price}</span>
+        <button type="button" className="btn btn-outline-primary" onClick={() => {props.addItem(menuItem);}}>Add to Cart</button>
         <p className="card-text">{menuItem.Description}</p>
       </div>
     </div>
@@ -78,7 +80,6 @@ class Menu extends Component {
     this.setState({ order });
 
   }
-
 
 
   componentDidMount() {

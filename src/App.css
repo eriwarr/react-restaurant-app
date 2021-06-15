@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
 .App {
   text-align: center;
 }
@@ -14,15 +16,17 @@
 }
 
 .App-header {
-  background-color: #aaaaaa;
+  background: transparent;
   height: auto;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
-  border: solid 2px #f6dcbf;
+  color: #558776;
+  border: solid 5px #fff;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 600;
 }
 
 .App-link {
@@ -40,6 +44,7 @@
 
 .body {
   padding: 100px;
+
 }
 
 img{
@@ -67,7 +72,7 @@ justify-content: center;
 
 .Modal-content {
   width: 500px;
-  background-color: #fff;
+  background-color: #558776;
 }
 
 .Modal-header, .Modal-footer {
@@ -82,4 +87,8 @@ justify-content: center;
   padding: 10px;
   border-top: 1px solid gray;
   border-bottom: 1px solid gray;
+}
+
+h5 {
+  color: #558776;
 }
