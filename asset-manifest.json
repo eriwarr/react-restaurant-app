@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/react-restaurant-app/static/css/main.f71269cd.chunk.css",
-    "main.js": "/react-restaurant-app/static/js/main.1683f77e.chunk.js",
-    "main.js.map": "/react-restaurant-app/static/js/main.1683f77e.chunk.js.map",
+    "main.css": "/react-restaurant-app/static/css/main.6d74d3ee.chunk.css",
+    "main.js": "/react-restaurant-app/static/js/main.96b6b005.chunk.js",
+    "main.js.map": "/react-restaurant-app/static/js/main.96b6b005.chunk.js.map",
     "runtime-main.js": "/react-restaurant-app/static/js/runtime-main.b9c6f90e.js",
     "runtime-main.js.map": "/react-restaurant-app/static/js/runtime-main.b9c6f90e.js.map",
     "static/css/2.4c97ca4f.chunk.css": "/react-restaurant-app/static/css/2.4c97ca4f.chunk.css",
@@ -12,15 +12,14 @@
     "static/js/3.b08fee90.chunk.js.map": "/react-restaurant-app/static/js/3.b08fee90.chunk.js.map",
     "index.html": "/react-restaurant-app/index.html",
     "static/css/2.4c97ca4f.chunk.css.map": "/react-restaurant-app/static/css/2.4c97ca4f.chunk.css.map",
-    "static/css/main.f71269cd.chunk.css.map": "/react-restaurant-app/static/css/main.f71269cd.chunk.css.map",
-    "static/js/2.d93f18f8.chunk.js.LICENSE.txt": "/react-restaurant-app/static/js/2.d93f18f8.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/react-restaurant-app/static/media/old-black-background-grunge-texture-dark-wallpaper-blackboard-chalkboard-concrete.bdd08e40.jpeg"
+    "static/css/main.6d74d3ee.chunk.css.map": "/react-restaurant-app/static/css/main.6d74d3ee.chunk.css.map",
+    "static/js/2.d93f18f8.chunk.js.LICENSE.txt": "/react-restaurant-app/static/js/2.d93f18f8.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.b9c6f90e.js",
     "static/css/2.4c97ca4f.chunk.css",
     "static/js/2.d93f18f8.chunk.js",
-    "static/css/main.f71269cd.chunk.css",
-    "static/js/main.1683f77e.chunk.js"
+    "static/css/main.6d74d3ee.chunk.css",
+    "static/js/main.96b6b005.chunk.js"
   ]
 }
